@@ -8,6 +8,7 @@ Usage:
  Add ec2 instance SSH key (IP + private key) to this CircleCI Project.
  Copy and paste the fingerprint to .circleci/config.yml.
  Update instance IP in the inventory file.
+ Update instance IP in the main4.yml file.
  Edit and commit the .circleci/config.yml file.
 
 
