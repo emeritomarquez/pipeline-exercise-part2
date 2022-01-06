@@ -37,7 +37,7 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys:
-          fingerprints: ["25:78:90:8d:87:13:1a:05:11:1d:71:c9:bf:1d:a1:95"] # You can get this ID in the section where you registered the SSH Key
+          fingerprints: ["fd:06:76:c0:bb:dc:5e:b0:cb:32:20:28:84:20:a4:be"] # You can get this ID in the section where you registered the SSH Key
       - run:
           name: Install dependencies
 # install the dependencies needed for your playbooks
